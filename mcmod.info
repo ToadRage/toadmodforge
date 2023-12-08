@@ -1,0 +1,16 @@
+[
+	{
+		"modid": "examplemod",
+		"name": "Example Mod",
+		"description": "Example mod with code to prove Forge functionalities.",
+		"version": "${version}",
+		"mcversion": "${mcversion}",
+		"url": "https://github.com/biancini/Minecraft-Forge",
+		"updateUrl": "",
+		"authorList": ["Andrea Biancini <andrea.biancini@gmail.com>"],
+		"credits": "The Forge and FML guys, for making these examples.",
+		"logoFile": "exampleMod.png",
+		"screenshots": [],
+		"dependencies": []
+	}
+]
